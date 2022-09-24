@@ -21,8 +21,10 @@
   },
   "homepage": "https://github.com/NPHrutin/quan_ly_danh_ba#readme",
   "dependencies": {
+    "babel-plugin-add-module-exports": "^1.0.4",
     "cors": "^2.8.5",
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "mongodb": "^4.10.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
